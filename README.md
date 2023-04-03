@@ -1,6 +1,6 @@
 # The SlicerMorph workshop for the AABA 2023
 
-Due to the uncertainty of the on-site WIFI quality, please install the software and download the sample dataset prior to workshop.
+Due to the uncertainty of the on-site WIFI quality, please install the software and download the sample dataset prior to workshop. Please bring a laptop and a mouse for the workshop.
 
 ## Download and install 3D Slicer and the SlicerMorph Extension
 **1. Download and install the stable release (v5.2.2) of 3D Slicer based on your computer's operating system (Windows, Mac, or Linux) here: https://download.slicer.org**
