@@ -1,15 +1,22 @@
 # The SlicerMorph workshop for the AABA 2023
 
-## Prior to workshop
 Due to the uncertainty of the on-site WIFI quality, please install the software and download the sample dataset prior to workshop.
 
-### [Download the stable version (v5.0.3) of the Slicer for your computer](https://download.slicer.org)
-### [How to install SlicerMorph Extension for 3D Slicer](https://github.com/SlicerMorph/SlicerMorph#installation)
-### [Download link for sample data:](https://seattlechildrens1.box.com/v/SVP2022Dataset)
-This share contains three files:
-1. **Hypertrag_UW13933Slices.zip:** Original image stack courtesy of Anne Kort. This is the original data format provided by the imaging center. This is a massive dataset (uncompressed 32GB) and when unzipped has 3754 TIFF files. The image spacing is 0.0346mm (or 34.6 micron). If you wanto import this dataset at its original resolution, you will need a computer with minimum of 48GB (64GB is better) RAM. We will show you how you use [`ImageStacks`](https://github.com/SlicerMorph/Tutorials/blob/main/ImageStacks/README.md) module of SlicerMorph to effectively import this data into 3D Slicer. 
-2. **preview.nrrd:** This is the same dataset above imported at preview resolution of original dataset (each axis is reduced by 4, so resolution is now 0.1384mm) and saved in NRRD format. This dataset can be directly loaded into Slicer. If you have a computer that has 8GB RAM (or less), please only use this dataset.
-3. **half_resolution.nrrd:** This is the same dataset above imported at half resolution of original dataset (each axis is reduced by 2, so resolution is now 0.0692mm) and saved in NRRD format. This dataset can be directly loaded into Slicer. If you have a computer that has 16GB RAM (or more), you can use this dataset.
+## Download and install 3D Slicer and the SlicerMorph Extension
+**1. Download and install the stable release (v5.2.2) of 3D Slicer based on your computer's operating system (Windows, Mac, or Linux) here: https://download.slicer.org**
+
+**2. Install the SlicerMorph Extension for 3D Slicer (you can also follow the instruction in the "Installation" session here: https://github.com/SlicerMorph/SlicerMorph#installation).**
+* Open 3D Slicer and click "Extension Wizard" from the top bar. In the Extension Wizard window, click "Install Extension", and then search for "SlicerMorph". Click "Install". It may take a minute. After that, click "Restart Slicer" to finish installation. It may take a minute.
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/80793828/229630900-05adf76c-85a4-4980-8a67-93e5d3c4e092.png">
+
+* Click "Restart" at the lower right corner of the Extension Wizard to finish the Installation. 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/80793828/229631458-287443b6-97c6-4fd8-9014-43a00a937b7b.png">
+
+* You should able to see the SlicerMorph extension installed in the "Manage Extensions" of the Extension Wizard.
+<img width="664" alt="image" src="https://user-images.githubusercontent.com/80793828/229631818-d198ac99-cba9-44d4-9c6c-6fe17a0f5fa7.png">
+
+## Download sample data
+**For this workshop, we are going to use the CT image series of a human head from MorphoSource as the sample data. Download the sample data here: https://www.morphosource.org/concern/media/000367572?locale=en. You will need to click a MorphoSource account.** Unzip the file. Open the unzipped folder, in the folder "Media 000367572 - Head Ct CTImageSeries CT", you should see another zipped folder "tif-000367572" that contains the TIFF series. Unzip this folder as well.
 
 
 ## Pre/Post Workshop Self-Help pointers
@@ -18,6 +25,7 @@ This share contains three files:
 3. [SlicerMorph Tutorials Repository: contains step-by-step instructions for each SlicerMorph module and some of the core Slicer modules (e.g., segment editor)](https://github.com/SlicerMorph/Tutorials#readme) 
 4. [SlicerMorph Youtube channel: contains video tutorials. For some videos, the UI may look slightly different depending on the version of Slicer used at the time](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
 5. [3D Slicer Community Forum: To ask questions that you couldn't find answers to in links above](https://discourse.slicer.org)
-6. [Consider signign up to the SlicerMorph announcement to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
-7. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list for the meeting link. 
-8. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here -ORCID is required](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link) 
+6. [Consider signign up to the SlicerMorph mailing list to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
+7. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list above for the meeting Zoom link. 
+8. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here -ORCID is required](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link).
+9. Follow our Twitter (https://twitter.com/SlicerMorph)!
