@@ -28,4 +28,4 @@ Due to the uncertainty of the on-site WIFI quality, please install the software 
 6. [Consider signign up to the SlicerMorph mailing list to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
 7. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list above for the meeting Zoom link. 
 8. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here -ORCID is required](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link).
-9. Follow our Twitter (https://twitter.com/SlicerMorph)!
+9.  [Follow our Twitter!](https://twitter.com/SlicerMorph)
