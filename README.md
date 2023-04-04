@@ -19,11 +19,11 @@ Due to the uncertainty of the on-site WIFI quality, please install the software 
 **For this workshop, we are going to use the CT image series of a human head from MorphoSource as the sample data. Download the sample data here: https://www.morphosource.org/concern/media/000367572?locale=en. You will need to click a MorphoSource account.** Unzip the file. Open the unzipped folder, in the folder "Media 000367572 - Head Ct CTImageSeries CT", you should see another zipped folder "tif-000367572" that contains the TIFF series. Unzip this folder as well.
 
 ## Topics will be covered in the workshop
-* 3D Slicer and SlicerMorph overview, data loading and saving
-* 3D volumetric data loading, visualization, and segmentation
+* 3D Slicer and SlicerMorph overview and utilities
+* 3D volumetric data visualization, and segmentation
 * Landmark annotation and automated landmarking
-* Generalized Procrustes Analysis and PCA visualization
-* Load Slicer and SlicerMorph landmark coordinates into R
+* SlicerMorph and geometric morphometrics
+* Load SlicerMorph landmark coordinates into R
 
 
 ## Pre/Post Workshop Self-Help pointers
