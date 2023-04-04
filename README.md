@@ -18,6 +18,14 @@ Due to the uncertainty of the on-site WIFI quality, please install the software 
 ## Download sample data
 **For this workshop, we are going to use the CT image series of a human head from MorphoSource as the sample data. Download the sample data here: https://www.morphosource.org/concern/media/000367572?locale=en. You will need to click a MorphoSource account.** Unzip the file. Open the unzipped folder, in the folder "Media 000367572 - Head Ct CTImageSeries CT", you should see another zipped folder "tif-000367572" that contains the TIFF series. Unzip this folder as well.
 
+## Topics will be covered in the workshop
+* 3D Slicer and SlicerMorph overview, data loading and saving
+* 3D volumetric data loading, visualization, and segmentation
+* Landmark annotation
+* Generalized Procrustes Analysis and PCA visualization
+* Load Slicer and SlicerMorph landmark data into R
+* Other modules of SlicerMorph, such as automated landmarking and segmentation
+
 
 ## Pre/Post Workshop Self-Help pointers
 1. [3D Slicer User Manual](https://slicer.readthedocs.io)
@@ -25,8 +33,7 @@ Due to the uncertainty of the on-site WIFI quality, please install the software 
 3. [SlicerMorph Tutorials Repository: contains step-by-step instructions for each SlicerMorph module and some of the core Slicer modules (e.g., segment editor)](https://github.com/SlicerMorph/Tutorials#readme) 
 4. [SlicerMorph Youtube channel: contains video tutorials. For some videos, the UI may look slightly different depending on the version of Slicer used at the time](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
 5. [3D Slicer Community Forum: To ask questions that you couldn't find answers to in links above](https://discourse.slicer.org)
-6. [Consider signign up to the SlicerMorph mailing list to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
-7. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list above for the meeting Zoom link. 
-8. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here -ORCID is required](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link).
-9.  [Follow the SlicerMorph team's Twitter!](https://twitter.com/SlicerMorph)
-10. [Follow my Twitter!](https://twitter.com/chi_polydata)
+6. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list above for the meeting Zoom link. 
+7. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here -ORCID is required](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link).
+8.  [Follow the SlicerMorph team's Twitter!](https://twitter.com/SlicerMorph)
+9. [Follow my Twitter!](https://twitter.com/chi_polydata)
