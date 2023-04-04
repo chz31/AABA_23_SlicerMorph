@@ -16,7 +16,7 @@ Due to the uncertainty of the on-site WIFI quality, please install the software 
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/80793828/229631818-d198ac99-cba9-44d4-9c6c-6fe17a0f5fa7.png">
 
 ## Download sample data
-**For this workshop, we are going to use the CT image series of a human head from MorphoSource as the sample data. Download the sample data here: https://www.morphosource.org/concern/media/000367572?locale=en. You will need to click a MorphoSource account.** Unzip the file. Open the unzipped folder, in the folder "Media 000367572 - Head Ct CTImageSeries CT", you should see another zipped folder "tif-000367572" that contains the TIFF series. Unzip this folder as well.
+**For this workshop, we are going to use the CT image series of a human head from MorphoSource as the sample data. Download the sample data here: https://www.morphosource.org/concern/media/000367572?locale=en. You will need to create a MorphoSource account.** Unzip the file. Open the unzipped folder, in the folder "Media 000367572 - Head Ct CTImageSeries CT", you should see another zipped folder "tif-000367572" that contains the TIFF series. Unzip this folder as well.
 
 ## Topics will be covered in the workshop
 * 3D Slicer and SlicerMorph overview and utilities
