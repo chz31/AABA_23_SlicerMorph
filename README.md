@@ -32,7 +32,7 @@ Due to the uncertainty of the on-site WIFI quality, please install the software 
 3. [SlicerMorph Tutorials Repository: contains step-by-step instructions for each SlicerMorph module and some of the core Slicer modules (e.g., segment editor)](https://github.com/SlicerMorph/Tutorials#readme) 
 4. [SlicerMorph Youtube channel: contains video tutorials. For some videos, the UI may look slightly different depending on the version of Slicer used at the time](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
 5. [3D Slicer Community Forum: To ask questions that you couldn't find answers to in links above](https://discourse.slicer.org)
-6. [Consider signign up to the SlicerMorph mailing list to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
+6. [Consider sign up to the SlicerMorph mailing list to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
 7. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list above for the meeting Zoom link. 
 8.  [Follow the SlicerMorph team's Twitter!](https://twitter.com/SlicerMorph)
 9. [Follow my Twitter!](https://twitter.com/chi_polydata)
